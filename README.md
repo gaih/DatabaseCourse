@@ -1,4 +1,8 @@
-# Global AI Hub - Veri Tabanı Eğitimi (21-22-23 Mart 2022)
+# Global AI Hub - Veri Tabanı Eğitimi
+
+<div align="center">
+    <img src="logo.png">
+</div>
 
 ![Logo](https://globalaihub.com/wp-content/uploads/2021/11/logo_quality_min.png)
 ## Veri Tabanı Eğitiminin 2. gününde kullanılan komutlar aşağıda sıralanmıştır. İyi çalışmalar!  
