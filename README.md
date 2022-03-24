@@ -1,7 +1,7 @@
 # Global AI Hub - Veri Tabanı Eğitimi
 
 <div align="center">
-    <img src="logo.png">
+    <img src="https://globalaihub.com/wp-content/uploads/2021/11/logo_quality_min.png">
 </div>
 
 ## Veri Tabanı Eğitiminin 2. gününde kullanılan komutlar aşağıda sıralanmıştır. İyi çalışmalar!  
